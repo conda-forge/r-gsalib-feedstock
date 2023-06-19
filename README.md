@@ -1,11 +1,11 @@
-About r-gsalib
-==============
+About r-gsalib-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-gsalib-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=gsalib
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-gsalib-feedstock/blob/main/LICENSE.txt)
 
 Summary: This package contains utility functions used by the Genome Analysis Toolkit (GATK) to load tables and plot data. The GATK is a toolkit for variant discovery in high-throughput sequencing data.
 
