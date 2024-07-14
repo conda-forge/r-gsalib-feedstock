@@ -1,6 +1,5 @@
 {% set version = "2.2.1" %}
 {% set posix = 'm2-' if win else '' %}
-{% set native = 'm2w64-' if win else '' %}
 
 package:
   name: r-gsalib
@@ -13,8 +12,7 @@ source:
   sha256: 3da3a4b959142a0d694a843e39143bfce82a6de197c6cc92650a28ac05f3bf90
 
 build:
-  merge_build_host: true  # [win]
-  number: 2
+  number: 3
   noarch: generic
   rpaths:
     - lib/R/lib/
